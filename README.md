@@ -27,6 +27,7 @@ The comparison between the models is visualized in a plot image
 <img src="https://github.com/adiren7/PC-Parts-Recognition/blob/main/media/models-inference-speed-vs-performance.jpg" width="680" height="480" />
 
 The plot illustrates the performance metrics (test accuracy , speed, and size) for each model, allowing for easy comparison.
+The best choice was : #### EFFNETB2
 
 
 ## Sample Visual Demonstration
