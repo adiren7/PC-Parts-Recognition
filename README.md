@@ -32,5 +32,5 @@ The plot illustrates the performance metrics (test accuracy , speed, and size) f
 ## Sample Visual Demonstration
 Below is a small visual demonstration of how the application looks:
 
-<img src="https://github.com/adiren7/PC-Parts-Recognition/blob/main/media/demo.mp4" width="680" height="480" />
+<img src="https://github.com/adiren7/PC-Parts-Recognition/blob/main/media/demo.gif" width="680" height="480" />
 
