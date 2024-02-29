@@ -23,7 +23,7 @@ python app.py
 ```
 
 ## Model Comparison
-The comparison between the models is visualized in a plot image ![Model Comparison Plot](https://github.com/adiren7/PC-Parts-Recognition/blob/main/media/models-inference-speed-vs-performance.jpg)
+The comparison between the models is visualized in a plot image ![Model Comparison Plot](https://github.com/adiren7/PC-Parts-Recognition/blob/main/media/demo.gif)
 The plot illustrates the performance metrics (test accuracy , speed, and size) for each model, allowing for easy comparison.
 
 
